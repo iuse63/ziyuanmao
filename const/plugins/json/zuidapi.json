@@ -27,6 +27,36 @@
       "title": "爽文短剧",
       "weight": 1
     },
+	    {
+      "url": "55",
+      "title": "动5片",
+      "weight": 5
+    },
+		    {
+      "url": "56",
+      "title": "动6片",
+      "weight": 5
+    },
+		    {
+      "url": "57",
+      "title": "动7片",
+      "weight": 5
+    },
+		    {
+      "url": "58",
+      "title": "动8片",
+      "weight": 5
+    },
+		    {
+      "url": "59",
+      "title": "动9片",
+      "weight": 5
+    },
+		    {
+      "url": "60",
+      "title": "动0片",
+      "weight": 5
+    },
     {
       "url": "6",
       "title": "动作片",
