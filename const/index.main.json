@@ -633,6 +633,21 @@
       "downloadUrl": "/plugins/json/zuidapi.json",
       "engineType": "Mac"
     },
+{
+      "id": "wsyzy",
+      "icon": "https://api.zuidapi.com/favicon.ico",
+      "name": "无水印资源",
+      "versionCode": 1,
+      "versionName": "1.0.0",
+      "description": "无水印资源,提供包括电影、电视剧、动漫、综艺、纪录片、演唱会、体育赛事等多种类型,支持分类浏览和搜索,每日更新,速度自测",
+      "updateDescription": "",
+      "isSupportClass": true,
+      "isSupportSearch": true,
+      "isSupportHomeRecommends": false,
+      "autoInstallAtFirstLaunch": true,
+      "downloadUrl": "/plugins/json/wsyzy.json",
+      "engineType": "Mac"
+    },
     {
       "id": "hongniuzy2",
       "icon": "https://www.hongniuzy2.com/favicon.ico",
