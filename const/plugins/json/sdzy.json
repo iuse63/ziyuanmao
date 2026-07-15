@@ -1,0 +1,326 @@
+{
+  "id": "sdzy",
+  "api": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xm",
+  "name": "闪电资源",
+  "weight": 0,
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "favicon": "",
+  "description": "闪电影视资源站，涵盖电影、多地区剧集、全品类综艺、动漫、体育赛事、爽文短剧、4K影片、影视解说等海量资源，实时更新，播放标识sdm3u8",
+  "supportClass": true,
+  "supportSearch": true,
+  "headers": {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7103.48 Safari/537.36"
+  },
+  "dtNodesEntities": [
+    {
+      "id": "sdm3u8",
+      "name": "SD播放",
+      "weight": 0,
+      "videoType": "Direct",
+      "canDownload": true
+    }
+  ],
+  "classEntities": [
+    {
+      "url": "1",
+      "title": "电影",
+      "weight": 1
+    },
+    {
+      "url": "2",
+      "title": "电视剧",
+      "weight": 2
+    },
+    {
+      "url": "3",
+      "title": "综艺",
+      "weight": 3
+    },
+    {
+      "url": "4",
+      "title": "动漫",
+      "weight": 4
+    },
+    {
+      "url": "6",
+      "title": "动作片",
+      "weight": 5
+    },
+    {
+      "url": "7",
+      "title": "喜剧片",
+      "weight": 6
+    },
+    {
+      "url": "8",
+      "title": "爱情片",
+      "weight": 7
+    },
+    {
+      "url": "9",
+      "title": "科幻片",
+      "weight": 8
+    },
+    {
+      "url": "10",
+      "title": "恐怖片",
+      "weight": 9
+    },
+    {
+      "url": "11",
+      "title": "剧情片",
+      "weight": 10
+    },
+    {
+      "url": "12",
+      "title": "战争片",
+      "weight": 11
+    },
+    {
+      "url": "13",
+      "title": "国产剧",
+      "weight": 12
+    },
+    {
+      "url": "14",
+      "title": "欧美剧",
+      "weight": 13
+    },
+    {
+      "url": "15",
+      "title": "韩剧",
+      "weight": 14
+    },
+    {
+      "url": "16",
+      "title": "日剧",
+      "weight": 15
+    },
+    {
+      "url": "17",
+      "title": "港剧",
+      "weight": 16
+    },
+    {
+      "url": "18",
+      "title": "台剧",
+      "weight": 17
+    },
+    {
+      "url": "19",
+      "title": "泰剧",
+      "weight": 18
+    },
+    {
+      "url": "20",
+      "title": "纪录片",
+      "weight": 19
+    },
+    {
+      "url": "23",
+      "title": "海外剧",
+      "weight": 20
+    },
+    {
+      "url": "25",
+      "title": "大陆综艺",
+      "weight": 21
+    },
+    {
+      "url": "26",
+      "title": "日韩综艺",
+      "weight": 22
+    },
+    {
+      "url": "27",
+      "title": "港台综艺",
+      "weight": 23
+    },
+    {
+      "url": "28",
+      "title": "欧美综艺",
+      "weight": 24
+    },
+    {
+      "url": "29",
+      "title": "国产动漫",
+      "weight": 25
+    },
+    {
+      "url": "30",
+      "title": "日韩动漫",
+      "weight": 26
+    },
+    {
+      "url": "31",
+      "title": "欧美动漫",
+      "weight": 27
+    },
+    {
+      "url": "39",
+      "title": "动画片",
+      "weight": 28
+    },
+    {
+      "url": "44",
+      "title": "港台动漫",
+      "weight": 29
+    },
+    {
+      "url": "45",
+      "title": "海外动漫",
+      "weight": 30
+    },
+    {
+      "url": "47",
+      "title": "演唱会",
+      "weight": 31
+    },
+    {
+      "url": "48",
+      "title": "体育赛事",
+      "weight": 32
+    },
+    {
+      "url": "49",
+      "title": "篮球",
+      "weight": 33
+    },
+    {
+      "url": "50",
+      "title": "足球",
+      "weight": 34
+    },
+    {
+      "url": "51",
+      "title": "预告片",
+      "weight": 35
+    },
+    {
+      "url": "52",
+      "title": "斯诺克",
+      "weight": 36
+    },
+    {
+      "url": "53",
+      "title": "影视解说",
+      "weight": 37
+    },
+    {
+      "url": "54",
+      "title": "爽文短剧",
+      "weight": 38
+    },
+    {
+      "url": "55",
+      "title": "伦理",
+      "weight": 39
+    },
+    {
+      "url": "56",
+      "title": "港台三级",
+      "weight": 40
+    },
+    {
+      "url": "57",
+      "title": "韩国伦理",
+      "weight": 41
+    },
+    {
+      "url": "58",
+      "title": "西方伦理",
+      "weight": 42
+    },
+    {
+      "url": "59",
+      "title": "日本伦理",
+      "weight": 43
+    },
+    {
+      "url": "60",
+      "title": "两性课堂",
+      "weight": 44
+    },
+    {
+      "url": "61",
+      "title": "写真热舞",
+      "weight": 45
+    },
+    {
+      "url": "62",
+      "title": "4K电影",
+      "weight": 46
+    },
+    {
+      "url": "63",
+      "title": "有声动漫",
+      "weight": 47
+    },
+    {
+      "url": "64",
+      "title": "女频恋爱",
+      "weight": 48
+    },
+    {
+      "url": "65",
+      "title": "反转爽剧",
+      "weight": 49
+    },
+    {
+      "url": "66",
+      "title": "古装仙侠",
+      "weight": 50
+    },
+    {
+      "url": "67",
+      "title": "年代穿越",
+      "weight": 51
+    },
+    {
+      "url": "68",
+      "title": "脑洞悬疑",
+      "weight": 52
+    },
+    {
+      "url": "69",
+      "title": "现代都市",
+      "weight": 53
+    },
+    {
+      "url": "70",
+      "title": "邵氏电影",
+      "weight": 54
+    },
+    {
+      "url": "71",
+      "title": "Netflix电影",
+      "weight": 55
+    },
+    {
+      "url": "72",
+      "title": "Netflix自制剧",
+      "weight": 56
+    },
+    {
+      "url": "73",
+      "title": "擦边短剧",
+      "weight": 57
+    },
+    {
+      "url": "74",
+      "title": "预告解说",
+      "weight": 58
+    },
+    {
+      "url": "75",
+      "title": "科普学习",
+      "weight": 59
+    },
+    {
+      "url": "76",
+      "title": "漫剧",
+      "weight": 60
+    }
+  ]
+}
